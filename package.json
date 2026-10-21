@@ -1,0 +1,14 @@
+{
+  "name": "occasional-sound",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "start": "parcel ./*.html",
+    "build": "parcel build ./*.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
